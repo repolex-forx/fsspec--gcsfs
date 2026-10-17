@@ -1,0 +1,11 @@
+{
+  "org": "fsspec",
+  "repo": "gcsfs",
+  "versions": [
+    {
+      "commit": "905240e42e1dc3069ea58852feec19fd682c1685",
+      "tag": "",
+      "parsed_at": "2026-10-17T03:26:29.888821+00:00"
+    }
+  ]
+}
